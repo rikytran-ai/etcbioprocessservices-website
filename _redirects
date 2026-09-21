@@ -1,0 +1,8 @@
+# Consolidate www onto the canonical bare domain
+https://www.etcbioprocessservices.com/* https://etcbioprocessservices.com/:splat 301
+
+# Legacy site pages (previous site version), redirect to current equivalents
+/about-us/ /about 301
+/about-us /about 301
+/published-articles/ /articles 301
+/published-articles /articles 301
